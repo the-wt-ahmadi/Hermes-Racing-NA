@@ -111,8 +111,8 @@
   ### Maserati
     A6GCS/53 -- 1953
     Alfieri
-    MC12 
     GranTurismo
+    MC12
   ### Mazda 
     RX-4 saloon -- 1973
     Repu -- 1975
