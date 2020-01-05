@@ -117,37 +117,73 @@
     Repu -- 1975
     RX-7 (FC3S) -- 1988
     RX-7 (R1)
- ### McLaren
+  ### McLaren
     F1 LM -- 1995
     P1 -- 2015
     MSO X 
     600LT -- 2019
- ### Mercedes
-    -Benz SL 65 AMG Black Series -- 2009
-    -Benz C 63 AMG Coupe Black Series -- 2012
-    -AMG E63 S wagon -- 2017
-    -AMG A 45 4MATIC (W176)
-    -Maybach S600 -- 2018
-    -AMG GT 63 S -- 2019
- ### Mitsubishi
- ### Nissan
- ### Noble
- ### Oldsmobile
- ### Pagani
- ### Plymouth
- ### Pontiac
- ### Porsche
- ### Rimac
- ### Rolls-Royce
- ### Saleen
- ### Shelby
- ### SRT
- ### Terradyne
- ### Tesla
- ### Toyota
- ### Subaru
- ### Volkswagen
- ### Volvo
- ### W Motors
- ### Zenvo
+  ### Mercedes-AMG
+    E63 S wagon -- 2017
+    AMG A 45 4MATIC (W176)
+    AMG GT 63 S -- 2019
+  ### Mercedes-Benz
+    SL 65 AMG Black Series -- 2009
+    C 63 AMG Coupe Black Series -- 2012
+  ### Mercedes-Maybach
+    S600 -- 2018
+  ### Mitsubishi
+    Lancer Eclipse (2G) -- 1997
+    Lancer Evolution VII
+    Lancer Evolution MR
+  ### Nissan
+    Skyline -- 1957
+    Fairlady 240ZG -- 1971
+    Skyline (R30) -- 1982
+    300ZX twin-turbo -- 1991
+    Skyline GT-R V-Spec (R32)
+    R390 GT1
+    Silvia Spec R Aero (S15) -- 2002
+    GT-R Premium -- 2017
+    370Z Heritage Edition -- 2018
+  ### Noble
+    M600 
+  ### Oldsmobile
+    Toronado -- 1967
+  ### Pagani
+    Zonda Cinque -- 2009
+    Huayra BC -- 2017
+  ### Plymouth
+    Fury "Christine" -- 1957
+    Barracuda Formula S383 -- 1967
+    Road Runner Sport -- 1970
+    GTX 440+6 -- 1971
+  ### Pontiac
+    Solstice GXP Coupe -- 2009
+  ### Porsche
+    928 GTS -- 1989
+    918 Spyder
+  ### Rimac
+    C Two
+  ### Rolls-Royce
+    Ghost Black Badge -- 2016
+  ### Saleen
+    Saleen S7 twin-turbo -- 2004
+    S5S Raptor -- 2008
+    S1 -- 2018
+  ### Shelby
+    GT500KR -- 1969
+    GT500 -- 2013
+  ### SRT
+    Viper GTS -- 2017
+  ### Terradyne
+    Gurkha RPV -- 2015
+  ### Tesla
+    Model S P100D Ludicrous Plus -- 2018
+    Roadster -- 2020
+  ### Toyota
+  ### Subaru
+  ### Volkswagen
+  ### Volvo
+  ### W Motors
+  ### Zenvo
 ## Traffic Cars
