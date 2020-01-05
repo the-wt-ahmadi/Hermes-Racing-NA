@@ -49,6 +49,7 @@
     250 GT Berlinetta -- 1959
     330 P4
     355 Berlinetta
+    812 Superfast
     California Spyder SWB -- 1960
     F40 -- 1987
     F430
