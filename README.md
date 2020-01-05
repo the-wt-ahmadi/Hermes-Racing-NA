@@ -1,5 +1,5 @@
 # Mercury-Racing-NA
-## Car List (Playable)
+## Car List (Playable)[General]
   ### Acura
     Acura NSX (NC1)
   ### Aston Martin
@@ -161,8 +161,10 @@
   ### Pontiac
     Solstice GXP Coupe -- 2009
   ### Porsche
+    911 Carrera RSR 2.8 -- 1973
     928 GTS -- 1989
     918 Spyder
+    911 GT2 -- 2018
   ### Rimac
     C Two
   ### Rolls-Royce
@@ -182,8 +184,17 @@
     Model S P100D Ludicrous Plus -- 2018
     Roadster -- 2020
   ### Toyota
+    2000GT
+    Sprinter GT Apex (AE86) -- 1983
+    Celica GT-Four RC (ST185) -- 1992
+    Supra RZ (MkIV) -- 1998
+    Crown 1JZ-GTE -- 1999
+    Avalon Touring -- 2006
+    GT86 -- 2015
+    GR Supra (J29/DB)
   ### Subaru
   ### Volkswagen
+    Porsche 914 -- 1976
   ### Volvo
   ### W Motors
   ### Zenvo
