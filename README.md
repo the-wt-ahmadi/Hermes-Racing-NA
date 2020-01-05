@@ -129,4 +129,25 @@
     -AMG A 45 4MATIC (W176)
     -Maybach S600 -- 2018
     -AMG GT 63 S -- 2019
+ ### Mitsubishi
+ ### Nissan
+ ### Noble
+ ### Oldsmobile
+ ### Pagani
+ ### Plymouth
+ ### Pontiac
+ ### Porsche
+ ### Rimac
+ ### Rolls-Royce
+ ### Saleen
+ ### Shelby
+ ### SRT
+ ### Terradyne
+ ### Tesla
+ ### Toyota
+ ### Subaru
+ ### Volkswagen
+ ### Volvo
+ ### W Motors
+ ### Zenvo
 ## Traffic Cars
