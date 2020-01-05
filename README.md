@@ -173,7 +173,7 @@
    GT500 -- 2013
  ### SRT
    Viper GTS -- 2017
- ### Terradyne 
+ ### Terradyne
    Gurkha RPV -- 2015
  ### Tesla 
    Model S P100D Ludicrous Plus -- 2018
