@@ -22,5 +22,5 @@
     850 CSi (E31) -- 1991
     M3 LTW CSL (E36)
     M5 (E60) -- 2009
-    M760Li
+    M760Li xDrive [Geneva Auto Show version]
 ## Traffic Cars
