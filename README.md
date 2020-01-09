@@ -83,7 +83,7 @@
     Maverick -- 1972
     Probe -- 1989
     F-150 SVT Raptor -- 2010
-    Focus ST -- 2015
+    Focus ST -- 2013
     Focus RS -- 2016
     GT -- 2017
     Bronco -- 2020
