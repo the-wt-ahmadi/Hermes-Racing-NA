@@ -148,6 +148,8 @@
     RC-F Track Edition
   ### Local Motors
     Rally Fighter
+  ### Lotus
+    Evija
   ### Mamba
     GT3 -- 2018
   ### Maserati
