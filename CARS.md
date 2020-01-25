@@ -244,6 +244,7 @@
     Supra RZ (MkIV) -- 1998
     Crown 1JZ-GTE -- 1999
     Avalon Touring -- 2006
+    TRD Aurion 3500SL -- 2012
     GT86 -- 2015
     GR Supra (J29/DB)
   ### TVR
