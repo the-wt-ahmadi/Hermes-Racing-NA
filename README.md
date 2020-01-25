@@ -15,6 +15,7 @@
     DBS Coupe
     One-77
     Rapide E
+    Valhalla
     Valkyrie
     Vantage AMR
     Vanquish Zagato [+ Volante, Speedster, Shooting Brake]
@@ -67,7 +68,7 @@
     250 GT Berlinetta -- 1959
     330 P4
     355 Berlinetta
-    812 Superfast
+    812 Superfast GTS
     California Spyder SWB -- 1960
     F40 -- 1987
     F430
@@ -77,6 +78,7 @@
     Dino (Type 135)
   ### Ford
     Roadster -- 1932
+    Thunderbird -- 1957
     Mustang Coupe -- 1965
     Mustang Shelby GT500 Super Snake -- 1967
     Falcon XY-GTHO Phase III
