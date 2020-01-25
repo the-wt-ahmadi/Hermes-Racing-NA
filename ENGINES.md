@@ -8,19 +8,22 @@
     Gen IV LS9 supercharged V8
     LSA 6.2 L supercharged V8
   ### Chrysler
-    #### V8
+   #### V8
       FirePower
       Demon 6.2 L Hemi
-    #### V10
+   #### V10
       Viper
   ### Ford
+   #### straight-six
     300 CID
-    Terminator V8
-    Coyote V8
-    Scorpion Diesel V8
-    Voodoo V8
-    Predator V8
-    Triton V10
+   #### V8
+    Coyote
+    Predator
+    Scorpion Diesel
+    Terminator
+    Voodoo
+   #### V10
+    Triton
   ### Mitsubishi
     4G63
   ### Rolls-Royce
