@@ -1,4 +1,6 @@
 ## Car List (Playable)[General]
+*Manufacturers*:
+[AC](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#ac) | [Acura](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#acura) | [Alfa Romeo](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#alfa-romeo) | [Ariel](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#ariel) | [Aston Martin](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#aston-martin) | [Audi](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#audi) | [Automobili Pininfarina](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#automobili-pininfarina) | [Bentley](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#bentley) | [BMW](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#bmw) | [Bugatti](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#bugatti) | [Buick](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#buick) | [Cadillac](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#cadillac) | [Caterham](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#caterham) | [Chevrolet](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#chevrolet) | [Dodge](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#dodge) | [Devon](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#devon) | [Eagle](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#eagle) | [Ferrari](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#ferrari) | [Fiat](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#fiat) | [Ford](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#ford) | [Ginetta](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#ginetta) | [Gumpert](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#gumpert) | [Hennessey](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#hennessey) | [Holden](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#holden) | [Honda](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#honda) | [Hummer](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#hummer) | [Hyundai](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#hyundai) | [Infiniti](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#infiniti) | [ItalDesign Giugiaro](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#italdesign-giugiaro) | [Jaguar](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#jaguar) | [Jeep](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#jeep) | [Kepler](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#kepler) | [Koenigsegg](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#koenigsegg) | [Lada](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#lada) | [Lamborghini](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#lamborghini) | [Lancia](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#lancia) | [Lexus](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#lexus) | [Local Motors](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#local-motors) | [Lotus](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#lotus) | [Mamba](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#mamba) | [Maserati](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#maserati) | [Maybach](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#maybach) | [Mazda](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#mazda) | [McLaren](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#mclaren) | [Mercedes](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#mercedes) | [Mercedes-AMG](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#mercedes-amg) | [Mercedes-Benz](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#mercedes-benz) | [Mercedes-Maybach](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#mercedes-maybach) | [Mitsubishi](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#mitsubishi) | [Nissan](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#nissan) | [Noble](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#noble) | [Oldsmobile](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#oldsmobile) | [Pagani](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#pagani) | [Plymouth](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#plymouth) | [Pontiac](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#pontiac) | [Porsche](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#porsche) | [Rimac](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#rimac) | [Rolls-Royce](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#rolls-royce) | [Saleen](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#saleen) | [Scaldarsi](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#scaldarsi) | [Shelby](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#shelby) | [SRT](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#srt) | [Subaru](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#subaru) | [Terradyne](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#terradyne) | [Tesla](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#tesla) | [Toyota](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#toyota) | [TVR](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#tvr) | [Volkswagen](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#volkswagen) | [Volvo](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#volvo) | [W Motors](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#w-motors) | [Zenvo](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/CARS.md#zenvo)
   ### AC
     Cobra Weineck 780 ci
   ### Acura
@@ -25,6 +27,8 @@
     RS6 (C5)
     R8 V10 Plus MTM Supercharged -- 2017
     A8 (D3)
+  ### Automobili Pininfarina 
+    Batista
   ### Bentley
     Continental GT
     Flying Spur W12 S
@@ -40,6 +44,7 @@
   ### Bugatti
     Veyron Grand Sport Vitesse
     Chiron -- 2017
+    Divo
     La Voiture Noire
   ### Buick
     Grand National -- 1987
@@ -87,6 +92,7 @@
     Focus ST -- 2013
     Focus RS -- 2016
     GT -- 2017
+    Shelby GT500 -- 2020
     Bronco -- 2020
   ### Ginetta
     Akula
@@ -158,6 +164,8 @@
     Alfieri
     GranTurismo
     MC12
+  ### Maybach
+    57 S
   ### Mazda 
     RX-4 saloon -- 1973
     Repu -- 1975
@@ -170,15 +178,17 @@
     MSO X 
     600LT -- 2019
     Speedtail
-  ### Mercedes-AMG
+  ### Mercedes 
+   #### Mercedes-AMG
     E63 S wagon -- 2017
     AMG A 45 4MATIC (W176)
     AMG GT 63 S 4MATIC+ -- 2019
-  ### Mercedes-Benz
+   #### Mercedes-Benz
+    300 SL Gullwing -- 1954
     SL 65 AMG Black Series -- 2009
     SLR McLaren
     C 63 AMG Coupe Black Series -- 2012
-  ### Mercedes-Maybach
+   #### Mercedes-Maybach
     S600 -- 2018
   ### Mitsubishi
     Lancer Eclipse (2G) -- 1997
@@ -207,9 +217,8 @@
     Barracuda Formula S383 -- 1967
     Road Runner Sport -- 1970
     GTX 440+6 -- 1971
-  ### Pininfarina
-    Automobili Pininfarina Batista
   ### Pontiac
+    Tempest 421 Super Duty -- 1963
     Solstice GXP Coupe -- 2009
   ### Porsche
     911 Carrera RSR 2.8 -- 1973
