@@ -1,4 +1,6 @@
 ## Engine List -> engines available for swaps
+*Manufacturers*:
+[BMW](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/ENGINES.md#bmw) | [Chevrolet](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/ENGINES.md#chevrolet) | [Chrysler](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/ENGINES.md#chrysler) | [Ferrari](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/ENGINES.md#ferrari) | [Ford](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/ENGINES.md#ford) | [Maserati](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/ENGINES.md#maserati) | [Mitsubishi](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/ENGINES.md#mitsubishi) | [Rolls-Royce](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/ENGINES.md#rolls-royce) | [Toyota](https://github.com/the-wt-ahmadi/Hermes-Racing-NA/blob/master/ENGINES.md#toyota) 
   ### BMW
    #### straight-six
     N54 twin-turbo
