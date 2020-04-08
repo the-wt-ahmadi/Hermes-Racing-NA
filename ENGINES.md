@@ -48,6 +48,10 @@
     Voodoo
    #### V10
     Triton
+  ### Lamborghini
+   #### V12
+    Diablo 5.7 L
+    Murcielago 6.5 L
   ### Maserati
    #### V8
     Tipo F136
@@ -59,6 +63,9 @@
    ##### Cyclone
     6G71 supercharged
     6G72 turbocharged
+  ### Pagani
+   #### V12
+    Zonda Cinque 7.3 L
   ### Rolls-Royce
     Merlin V12
   ### Toyota
