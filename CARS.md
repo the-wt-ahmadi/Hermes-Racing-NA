@@ -64,8 +64,6 @@
     Stealth r/T twin-turbo AWD
     Challenger SRT Demon -- 2018
     Charger SRT Hellcat -- 2019
-  ### Devon
-    GTX -- 2009
   ### Eagle
     Talon GT
   ### Ferrari
