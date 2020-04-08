@@ -36,16 +36,16 @@
     850 CSi (E31) -- 1991
     M3 LTW CSL (E36)
     Aplina V8 Roadster
-    M5 CSL 25th Anniversary (E60) -- 2009
-    M3 GT2 -- 2010
+    M5 LCI -- 2009
+    M3 GTS -- 2010
     M3 (E90) -- 2013
     M760Li xDrive [Geneva Auto Show version]
     X4 M Competition (F98)
   ### Bugatti
     Veyron Grand Sport Vitesse
     Chiron -- 2017
+    Chiron SuperSport 300+
     Divo
-    La Voiture Noire
   ### Buick
     Grand National -- 1987
   ### Cadillac
@@ -115,18 +115,19 @@
   ### Hyundai
     Veloster N
   ### Infiniti
+    G35 coupe
     Q60 S -- 2018
   ### ItalDesign Giugiaro
     Lamborghini Cala Concept
     Volkswagen Nardo W12 Coupe Concept
     Parcour
     GEA
-    Nissan GT-R50 Concept
+    Nissan GT-R50
   ### Jaguar
+    XKSS
     E-Type Series 3 -- 1971
     C-X75 -- 2013
     XKR-S GT RWD -- 2015
-    F-Type SVR
     XE SV Project 8 
   ### Jeep
     Grand Cherokee Trackhawk
@@ -138,6 +139,7 @@
     Regera Concept
     Agera One of 1
     Jesko
+    Agera FE "Thor" & "Vader"
   ### Lada
     Niva -- 1988
   ### Lamborghini
@@ -212,6 +214,7 @@
   ### Pagani
     Zonda Cinque -- 2009
     Huayra BC -- 2017
+    Huayra Imola -- 2020
   ### Plymouth
     Fury "Christine" -- 1957
     Barracuda Formula S383 -- 1967
@@ -225,8 +228,6 @@
     928 GTS -- 1989
     918 Spyder
     911 GT2 -- 2018
-  ### Rimac
-    C Two
   ### Rolls-Royce
     Ghost Black Badge -- 2016
   ### Saleen
