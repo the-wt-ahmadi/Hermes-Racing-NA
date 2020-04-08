@@ -115,15 +115,10 @@
   ### Infiniti
     G35 coupe
     Q60 S -- 2018
-  ### ItalDesign Giugiaro
-    Lamborghini Cala Concept
-    Volkswagen Nardo W12 Coupe Concept
-    Parcour
-    GEA
-    Nissan GT-R50
   ### Jaguar
     XKSS
     E-Type Series 3 -- 1971
+    XJR15
     C-X75 -- 2013
     XKR-S GT RWD -- 2015
     XE SV Project 8 
@@ -142,6 +137,7 @@
     Niva -- 1988
   ### Lamborghini
     Miura SV -- 1971
+    Cala Concept
     Aventador LP 700-4 -- 2011
     Sesto Elemento -- 2012
     Gallardo Superleggera -- 2013
@@ -205,6 +201,7 @@
     Silvia Spec R Aero (S15) -- 2002
     GT-R Premium -- 2017
     370Z Heritage Edition -- 2018
+    GT-R50
   ### Noble
     M600 
   ### Oldsmobile
