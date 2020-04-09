@@ -7,26 +7,26 @@
    #### I6
     B58B30 turbocharged
    #### V8
-    S65 4.0 L
+    S65 (4.0 L)
    #### V10
-    S85 5.0 L
+    S85 (5.0 L)
    #### V12
-    N73 6.75 L
+    N73 (6.75 L)
   ### Chevrolet
    #### V8
     LS1
-    LS3 6.2 L
+    LS3 (6.2 L)
     Gen IV LS9 supercharged
-    LSA 6.2 L supercharged
-    LSX twin-turbo 7.0 L
+    LSA (6.2 L) supercharged
+    LSX twin-turbo (7.0 L)
    #### V10
-    7.5 L twin-turbo Gen III LS prototype
+    (7.5 L) twin-turbo Gen III LS prototype
   ### Chrysler
    #### V8
       FirePower
-      Demon 6.2 L Hemi
+      Demon (6.2 L) Hemi
    #### V10
-      Viper
+      Viper (8.4 L) twin-turbo
   ### Ferrari
    #### V8
     Tipo F120A/F120D twin-turbo
@@ -50,8 +50,8 @@
     Triton
   ### Lamborghini
    #### V12
-    Diablo 5.7 L
-    Murcielago 6.5 L
+    Diablo VT (5.7 L)
+    Murcielago (6.5 L)
   ### Maserati
    #### V8
     Tipo F136
@@ -77,22 +77,22 @@
     VR38DETT
   ### Pagani
    #### V12
-    Zonda Cinque 7.3 L
+    Zonda Cinque (7.3 L)
   ### Rolls-Royce
     Merlin V12
   ### Subaru
    #### H4
-    2.5 L
+    (2.5 L) boxer
   ### Toyota
    #### straight-six
     1JZ-GTE
     2JZ-GTE
    #### V6
-    2GR-FE supercharged 3.5 L
+    2GR-FE supercharged (3.5 L)
    #### V8
-    2UR-GSE 5.0 L
-    3UR-FE supercharged 5.7 L
+    2UR-GSE (5.0 L)
+    3UR-FE supercharged (5.7 L)
    #### V10
-    1LR-GUE
+    1LR-GUE (4.8 L)
    #### V12
-    1GZ-FE
+    1GZ-FE (5.0 L)
