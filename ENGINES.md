@@ -69,8 +69,9 @@
     SR20DETT
    #### I6
     L28DET
-    RB25DET
-    RB26DETT
+    RB25DET NEO
+    RB26DETT N1
+    RB-X GT2
    #### V6
     VQ30DDTT
     VR38DETT
