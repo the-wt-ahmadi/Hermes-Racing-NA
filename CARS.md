@@ -24,7 +24,7 @@
   ### Audi
     Sport Quattro -- 1984
     RS4 -- 2007
-    RS6 (C5)
+    RS6 (C6)
     R8 V10 Plus MTM Supercharged -- 2017
     A8 (D3)
   ### Automobili Pininfarina 
