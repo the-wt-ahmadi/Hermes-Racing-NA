@@ -166,6 +166,7 @@
     RX-4 saloon -- 1973
     Repu -- 1975
     RX-7 (FC3S) -- 1988
+    Mazdaspeed MX-5 -- 2005
     RX-7 (R1)
   ### McLaren
     F1 LM -- 1995
