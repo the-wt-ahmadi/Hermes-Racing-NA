@@ -59,6 +59,7 @@
     3100
     Chevelle SS 454 LS6 Hardtop Coupe -- 1970
     Corvette (C1) -- 1953
+    Corvette (C2) Stingray -- 1963
     Corvette Z06 (C5)
     Corvette C8 Stingray
     El Camino SS 454 -- 1970
