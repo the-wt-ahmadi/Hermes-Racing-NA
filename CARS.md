@@ -198,7 +198,7 @@
     F1 LM -- 1995
     MP4-12C
     MSO X
-    P1 -- 2015 
+    P1 GTR -- 2015 
     Speedtail
   ### Mercedes
    [AMG](https://github.com/the-wt-ahmadi/Limitless/blob/master/CARS.md#mercedes-amg) | [Benz](https://github.com/the-wt-ahmadi/Limitless/blob/master/CARS.md#mercedes-benz) | [Maybach](https://github.com/the-wt-ahmadi/Limitless/blob/master/CARS.md#mercedes-maybach)
