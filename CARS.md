@@ -93,6 +93,7 @@
     Falcon XY-GTHO Phase III
     Focus ST -- 2013
     Focus RS -- 2016
+    GT40
     GT -- 2017
     Maverick -- 1972
     Mustang Coupe -- 1965
@@ -254,6 +255,7 @@
   ### Scaldarsi
     Emperor I
   ### Shelby
+    Cobra Daytona
     GT500 -- 2013
   ### SRT
     Viper GTS -- 2017
