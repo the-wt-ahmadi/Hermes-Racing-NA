@@ -14,7 +14,11 @@
   #### Andrew Davidson
    Lotus Elite GT1 6.0 L
   ## Anti-Heroes
-  *Skip to:* [K](https://github.com/the-wt-ahmadi/Limitless/blob/master/CHARACTERS.md#k)
+  [G](https://github.com/the-wt-ahmadi/Limitless/blob/master/CHARACTERS.md#g)
+  [K](https://github.com/the-wt-ahmadi/Limitless/blob/master/CHARACTERS.md#k)
+   ### G
+   *Skip to:* [Ghost](https://github.com/the-wt-ahmadi/Limitless/blob/master/CHARACTERS.md#ghost)
+   ### Michelle "Ghost" Millar
    ### K
    *Skip to:* [Khan](https://github.com/the-wt-ahmadi/Limitless/blob/master/CHARACTERS.md#khan)
    ### Khan
@@ -36,7 +40,9 @@
     2013 Lamborghini Gallardo LP570-4 Super Trofeo Stradale
     Honda S800
   ### K
-  *Skip to:* [Khan](https://github.com/the-wt-ahmadi/Limitless/blob/master/CHARACTERS.md#khan-1)
-   ### Khan
-   #### Imran Khan
+  *Skip to:* [Keller](https://github.com/the-wt-ahmadi/Limitless/blob/master/CHARACTERS.md#tj-keller) | [Khan](https://github.com/the-wt-ahmadi/Limitless/blob/master/CHARACTERS.md#imran-khan)
+   ### T.J. Keller
+    2012 Mercedes-Benz C 63 AMG Coupe Black Series
+    2019 Mercedes-AMG GT 63 S 4MATIC+
+   ### Imran Khan
     2018 Tesla Model S P100D Ludicrous Plus
