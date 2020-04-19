@@ -96,7 +96,7 @@
     GT40
     GT -- 2017
     Maverick -- 1972
-    Mustang Coupe -- 1965
+    Mustang -- 1968
     Mustang Shelby GT500 Super Snake -- 1967
     Probe -- 1989
     Roadster -- 1932
