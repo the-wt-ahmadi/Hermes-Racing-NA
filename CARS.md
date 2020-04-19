@@ -171,8 +171,8 @@
     Rally Fighter
   ### Lotus
     3-Eleven
-    Bitter GT1
-    Elite -- 1960
+    "Bitter" GT1
+    Elite I -- 1960
     Elise GT1 6.0 L
     Esprit GT1
     Evija
