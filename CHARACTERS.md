@@ -36,7 +36,7 @@
     2013 Lamborghini Gallardo LP570-4 Super Trofeo Stradale
     Honda S800
   ### K
-  *Skip to:* [Khan](https://github.com/the-wt-ahmadi/Limitless/blob/master/CHARACTERS.md#khan)
+  *Skip to:* [Khan](https://github.com/the-wt-ahmadi/Limitless/blob/master/CHARACTERS.md#khan-1)
    ### Khan
    #### Imran Khan
     2018 Tesla Model S P100D Ludicrous Plus
