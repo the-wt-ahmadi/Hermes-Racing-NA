@@ -242,8 +242,8 @@
     GTX 440+6 -- 1971
     Road Runner Sport -- 1970
   ### Polestar
-    1
-    2
+    1 -- 2020
+    2 -- 2020
   ### Pontiac    
     Solstice GXP Coupe -- 2009
     Tempest 421 Super Duty -- 1963
