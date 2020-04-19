@@ -105,7 +105,7 @@
     GT500 -- 2020
     Maverick -- 1972
     Mustang -- 1968
-    Mustang Shelby GT500 Super Snake -- 1967
+    Mustang Shelby GT500 Super Snake -- 2011
     Probe -- 1989
     Roadster -- 1932
     Shelby GT500 -- 2020
