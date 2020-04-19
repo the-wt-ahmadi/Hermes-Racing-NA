@@ -209,6 +209,7 @@
    #### Mercedes-Benz
     300 SL Gullwing -- 1954
     C 63 AMG Coupe Black Series -- 2012
+    CLK GTR
     SL 65 AMG Black Series -- 2009
     SLR McLaren
    #### Mercedes-Maybach
