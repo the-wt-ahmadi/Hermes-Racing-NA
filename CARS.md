@@ -220,7 +220,7 @@
     Lancer Evolution VIII MR FQ-400
   ### Nissan
     300ZX twin-turbo -- 1991
-    370Z Heritage Edition -- 2018
+    370Z Heritage Edition -- 2019
     Fairlady 240ZG -- 1971
     GT-R Premium -- 2017
     GT-R50
