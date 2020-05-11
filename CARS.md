@@ -84,7 +84,7 @@
     812 Superfast
     Dino 196 SP -- 1962
     Dino Berlinetta Speciale
-    F40 -- 1987
+    F40 GTE -- 1987
     F430
     F8 Tributo
     FXX-K Evo
