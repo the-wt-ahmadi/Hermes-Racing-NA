@@ -42,6 +42,7 @@
     300 CID
    #### V8
     Coyote
+    FR9
     Predator
     Scorpion Diesel
     Terminator
