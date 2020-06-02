@@ -27,7 +27,7 @@
   ### D
   *Skip to:* [Davidson](https://github.com/the-wt-ahmadi/Limitless/blob/master/CHARACTERS.md#andrew-davidson)
   ### Andrew Davidson
-   Jaguar XJR15
+   Jaguar XJR15     
    Lotus Elite GT1 6.0 L
   ## Anti-Heroes
   [G](https://github.com/the-wt-ahmadi/Limitless/blob/master/CHARACTERS.md#g)
