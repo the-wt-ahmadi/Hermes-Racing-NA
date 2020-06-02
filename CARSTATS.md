@@ -18,4 +18,4 @@ ENGINE:
 ENGINE:
 - 4G63
 ASPIRATION:
-- *turbo delete* | *naturally aspirated*
+- *turbo delete* | *naturally-aspirated*
