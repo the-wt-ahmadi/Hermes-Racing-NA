@@ -82,8 +82,7 @@
    Chevrolet 3100    
    Ferrari Dino Berlinetta Speciale    
    Maserati Tipo 61 Birdcage
-   #### Haile Vega
-   1963 Pontiac Tempest 421 Super Duty    
+   #### Haile Vega    
    2002 Toyota Aristo V300 Vertex Edition    
    2015 Terradyne Gurkha RPV    
    2020 Polestar 1
