@@ -82,7 +82,7 @@
    Chevrolet 3100    
    Ferrari Dino Berlinetta Speciale    
    Maserati Tipo 61 Birdcage
-   #### Haile Vega    
-   2002 Toyota Aristo V300 Vertex Edition    
+   #### Haile Vega     
    2015 Terradyne Gurkha RPV    
-   2020 Polestar 1
+   2020 Polestar 1     
+   Rezvani Tank
