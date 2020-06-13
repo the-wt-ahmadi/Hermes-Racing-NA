@@ -43,9 +43,11 @@
    #### V8
    Coyote    
    FR9    
+   Godzilla    
    Predator    
    Scorpion Diesel    
    Terminator    
+   Trinity     
    Voodoo
    #### V10
    Triton
