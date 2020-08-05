@@ -18,7 +18,7 @@
    LS3 (6.2 L)    
    Gen IV LS9 supercharged    
    LSA (6.2 L) supercharged    
-   LSX twin-turbo (7.0 L)
+   LSx twin-turbo (7.0 L)
    #### V10
    (7.5 L) twin-turbo Gen III LS prototype
   ### Chrysler
