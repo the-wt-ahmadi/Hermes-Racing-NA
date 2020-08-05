@@ -270,7 +270,7 @@
   ### SRT
    Viper GTS -- 2017
   ### Subaru
-   Impreza WRX STI -- 2010
+   Impreza WRX STi -- 2010
   ### Terradyne
    Gurkha RPV -- 2015
   ### Tesla
