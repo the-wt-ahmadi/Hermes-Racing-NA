@@ -43,6 +43,7 @@
    M3 (E90) -- 2013    
    M5 LCI -- 2009    
    M760Li xDrive \[Geneva Auto Show version]    
+   M8 Competition -- 2020    
    X4 M Competition (F98)
   ### Bugatti
    Chiron -- 2017    
