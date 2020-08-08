@@ -90,7 +90,7 @@
    Merlin V12
   ### Subaru
    #### H4
-   (2.5 L) H4 boxer
+   EJ255 (2.5 L)
   ### Toyota
    #### straight-six
    1JZ-GTE    
