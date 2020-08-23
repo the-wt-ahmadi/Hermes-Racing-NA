@@ -283,6 +283,7 @@
    Celica GT-Four RC (ST185) -- 1992    
    GT86 -- 2015    
    GR Supra (J29/DB)    
+   Hi-Ace    
    Sprinter GT Apex (AE86) -- 1983    
    Supra RZ (MkIV) -- 1998    
    TRD Aurion 3500SL -- 2012
