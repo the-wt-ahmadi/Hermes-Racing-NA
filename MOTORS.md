@@ -88,6 +88,7 @@
    Zonda Cinque (7.3 L)
   ### Rolls-Royce
    Merlin V12
+   Meteor V-12 (27 L)
   ### Subaru
    #### H4
    EJ255 (2.5 L)
