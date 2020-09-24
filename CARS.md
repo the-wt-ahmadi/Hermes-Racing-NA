@@ -108,7 +108,7 @@
    F-150 SVT Raptor -- 2010    
    Falcon XY-GTHO Phase III    
    Focus ST -- 2013    
-   Focus RS -- 2016    
+   Focus RS500 -- 2018    
    GT -- 2017    
    GT40      
    Maverick -- 1972    
