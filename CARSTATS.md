@@ -1,6 +1,9 @@
 #### 1963 Chevrolet Corvette (C2) Stingray *Keith Caruso*
 POWERTRAIN:
 - Polestar 1 transmission & 2.0L B4204T48 in-line four twincharged petrol engine, 2x electric motors with Integrated Starter Generator (ISG)
+
+WHEELS:
+- Rotiform CVTs
 #### 1969 Ford F-100 *K.mc.*
 ENGINE: 
 - FR9
