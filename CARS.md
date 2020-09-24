@@ -134,7 +134,7 @@
    Urban EV Concept -- 2017    
   ### HSV
    GTS -- 2015    
-   GTSR
+   GTSR -- 2015
   ### Hummer
    H3 Alpha -- 2012    
    Marauder -- 2008
