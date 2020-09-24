@@ -130,6 +130,7 @@
    NSX Type R -- 1995    
    S600 -- 1964    
    S800    
+   S2000 20th Anniversary Prototype -- 2020    
    Urban EV Concept -- 2017    
   ### HSV
    GTS -- 2015    
