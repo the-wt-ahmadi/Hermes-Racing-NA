@@ -37,10 +37,15 @@
   ### BMW
    750iL (E38)    
    850 CSi (E31) -- 1991    
+   2002 Hommage Concept -- 2016    
    Aplina V8 Roadster    
+   M1 -- 1978    
+   M1 Homage Concept    
    M3 LTW CSL (E36)    
    M3 GTS -- 2010    
    M3 (E90) -- 2013    
+   M4 Competition -- 2021    
+   M4 GTS -- 2016    
    M5 LCI -- 2009    
    M760Li xDrive \[Geneva Auto Show version]    
    M8 Competition -- 2020    
@@ -53,7 +58,8 @@
   ### Buick
    Grand National -- 1987
   ### Cadillac
-   CTS-V -- 2017
+   CTS-V -- 2017    
+   Sixteen Concept -- 2003
   ### Caterham
    Seven 620R
   ### Chevrolet
@@ -70,7 +76,8 @@
    Roadster
   ### Dodge
    Challenger SRT Demon -- 2018    
-   Charger SRT Hellcat -- 2019    
+   Charger SRT Hellcat -- 2019
+   PPG M4S Turbo Interceptor -- 1982    
    Stealth r/T twin-turbo AWD
   ### Eagle
    Talon GT
@@ -118,10 +125,12 @@
    Monaro CV8-Z -- 2005
   ### Honda
    Civic DX Hatchback -- 2000    
-   Civic Si -- 2018    
+   Civic Si -- 2017    
+   Civic Type R Pickup Truck Concept -- 2018    
    NSX Type R -- 1995    
    S600 -- 1964    
    S800    
+   Urban EV Concept -- 2017    
   ### HSV
    GTS -- 2015    
    GTSR
@@ -132,10 +141,11 @@
    Veloster N
   ### Infiniti
    G35 coupe    
-   Q60 S -- 2018
+   Project Black S -- 2017
   ### Jaguar
    C-X75 -- 2013    
    E-Type Series 3 -- 1971    
+   E-Type Zero Concept -- 2017    
    XE SV Project 8    
    XJR15    
    XKR-S GT RWD -- 2015    
@@ -160,6 +170,7 @@
    Gallardo LP570-4 Super Trofeo Stradale -- 2013    
    Miura SV -- 1971    
    Sesto Elemento -- 2012    
+   Terzo Millennio -- 2017    
    Urus Performante -- 2019    
    Veneno -- 2014
   ### Lancia
@@ -206,7 +217,8 @@
    #### Mercedes-AMG
    A 45 4MATIC (W176)    
    E63 S wagon -- 2017    
-   GT 63 S 4MATIC+ -- 2019
+   GT 63 S 4MATIC+ -- 2019    
+   GT3 Evo -- 2019    
    #### Mercedes-Benz
    300 SL Gullwing -- 1954    
    C 63 AMG Coupe Black Series -- 2012    
@@ -270,7 +282,8 @@
   ### SRT
    Viper GTS -- 2017
   ### Subaru
-   Impreza WRX STi -- 2010
+   Impreza WRX STi -- 2010    
+   STI S209 -- 2019
   ### Terradyne
    Gurkha RPV -- 2015
   ### Tesla
