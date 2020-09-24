@@ -3,7 +3,7 @@ ENGINE:
 - FR9
 #### 2009 BMW M5 LCI *K.mc.*
 ENGINE:
-- *factory* | DISPLACEMENT: 6.4 L
+- *factory* | DISPLACEMENT: 6.41 L
 
 ASPIRATION METHOD:
 - twin-charged
