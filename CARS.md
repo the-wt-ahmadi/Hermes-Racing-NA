@@ -110,8 +110,7 @@
    Focus ST -- 2013    
    Focus RS -- 2016    
    GT -- 2017    
-   GT40    
-   GT500 -- 2020    
+   GT40      
    Maverick -- 1972    
    Mustang -- 1968    
    Mustang Shelby GT500 Super Snake -- 2011    
