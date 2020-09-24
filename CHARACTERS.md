@@ -52,7 +52,7 @@
   *Skip to:* [Caruso](https://github.com/the-wt-ahmadi/Limitless/blob/master/CHARACTERS.md#caruso) | [Caster](https://github.com/the-wt-ahmadi/Limitless/blob/master/CHARACTERS.md#sithara-caster)
    ### Caruso
    #### Keith Caruso
-   1963 Corvette (C2) Stingray    
+   [1963 Corvette (C2) Stingray](https://github.com/the-wt-ahmadi/Limitless/blob/master/CARSTATS.md#1963-chevrolet-corvette-c2-stingray-keith-caruso)    
    1989 Porsche 928 GTS
    #### Kris Caruso (K.mc.)
    [1969 Ford F100](https://github.com/the-wt-ahmadi/Limitless/blob/master/CARSTATS.md#1969-ford-f-100-kmc)    
