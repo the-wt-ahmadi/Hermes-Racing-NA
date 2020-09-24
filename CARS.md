@@ -157,7 +157,7 @@
   ### Kepler
    Motion
   ### Koenigsegg
-   Agera FE "Thor" & "Vader"    
+   Agera FE "Thor" & "Väder"    
    Agera R -- 2011    
    Jesko    
    One:1    
