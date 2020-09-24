@@ -161,7 +161,7 @@
    Agera R -- 2011    
    Jesko    
    One:1    
-   Regera Concept
+   Regera
   ### Lada
    Niva -- 1988
   ### Lamborghini
