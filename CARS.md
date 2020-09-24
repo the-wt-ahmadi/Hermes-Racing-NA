@@ -65,6 +65,7 @@
   ### Chevrolet
    3100    
    Chevelle SS 454 LS6 Soft Top Coupe -- 1970    
+   Corvair Monza -- 1965    
    Corvette (C1) -- 1953    
    Corvette (C2) Stingray -- 1963    
    Corvette Z06 (C5)    
@@ -76,7 +77,7 @@
    Roadster
   ### Dodge
    Challenger SRT Demon -- 2018    
-   Charger SRT Hellcat -- 2019
+   Charger SRT Hellcat -- 2019    
    PPG M4S Turbo Interceptor -- 1982    
    Stealth r/T twin-turbo AWD
   ### Eagle
