@@ -1,6 +1,6 @@
 ## Engine List -> engines & powertrains available for swaps
 *Manufacturers*:
-[BMW](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#bmw) | [Chevrolet](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#chevrolet) | [Chrysler](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#chrysler) | [Ferrari](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#ferrari) | [Ford](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#ford) | [Honda](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#honda) | [Lamborghini](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#lamborghini) | [Maserati](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#maserati) | [Mitsubishi](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#mitsubishi) | [Nissan](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#nissan) | [Pagani](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#pagani) | [Rolls-Royce](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#rolls-royce) | [Subaru](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#subaru) | [Toyota](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#toyota) 
+[BMW](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#bmw) | [Chevrolet](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#chevrolet) | [Chrysler](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#chrysler) | [Ferrari](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#ferrari) | [Ford](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#ford) | [Honda](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#honda) | [Lamborghini](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#lamborghini) | [Maserati](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#maserati) | [Mitsubishi](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#mitsubishi) | [Nissan](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#nissan) | [Packard](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#packard) | [Pagani](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#pagani) | [Rolls-Royce](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#rolls-royce) | [Subaru](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#subaru) | [Toyota](https://github.com/the-wt-ahmadi/Limitless/blob/master/MOTORS.md#toyota) 
   ### BMW
    #### straight-six
    N54 twin-turbo
@@ -83,11 +83,12 @@
    #### V6
    VQ30DDTT    
    VR38DETT
+  ### Packard
+   V-1560 Merlin
   ### Pagani
    #### V12
    Zonda Cinque (7.3 L)
   ### Rolls-Royce
-   Merlin V12
    Meteor V-12 (27 L)
   ### Subaru
    #### H4
