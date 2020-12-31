@@ -263,7 +263,7 @@
    Road Runner Sport -- 1970
   ### Polestar
    1 -- 2020    
-   2 -- 2020
+   2 -- 2021
   ### Pontiac    
    Solstice GXP Coupe -- 2009    
    Tempest 421 Super Duty -- 1963
@@ -294,6 +294,7 @@
   ### Shelby
    Cobra Daytona    
    GT500 -- 2013
+   GT500 "Eleanor" -- 1967
   ### SRT
    Viper GTS -- 2017
   ### Subaru
